@@ -12,7 +12,7 @@ local G2L = {};
 
 -- StarterGui.SylonX
 G2L["1"] = Instance.new("ScreenGui", game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"));
-G2L["1"]["Name"] = [[SylonX]];
+G2L["1"]["Name"] = [[SylonX Beta]];
 G2L["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
 
 -- StarterGui.SylonX.MainUI
