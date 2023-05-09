@@ -626,7 +626,7 @@ G2L["56"]["Name"] = [[Scripts]];
 
 -- StarterGui.SylonX.MainUI.Tabs.Scripts.IY
 G2L["57"] = Instance.new("TextButton", G2L["56"]);
-G2L["57"]["BackgroundColor3"] = Color3.fromRGB(200, 157, 0);
+G2L["57"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 255);
 G2L["57"]["TextSize"] = 21;
 G2L["57"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 G2L["57"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
@@ -645,7 +645,7 @@ G2L["59"] = Instance.new("LocalScript", G2L["57"]);
 
 -- StarterGui.SylonX.MainUI.Tabs.Scripts.Dex
 G2L["5a"] = Instance.new("TextButton", G2L["56"]);
-G2L["5a"]["BackgroundColor3"] = Color3.fromRGB(200, 157, 0);
+G2L["5a"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 255);
 G2L["5a"]["TextSize"] = 21;
 G2L["5a"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 G2L["5a"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
@@ -664,7 +664,7 @@ G2L["5c"] = Instance.new("LocalScript", G2L["5a"]);
 
 -- StarterGui.SylonX.MainUI.Tabs.Scripts.Owl
 G2L["5d"] = Instance.new("TextButton", G2L["56"]);
-G2L["5d"]["BackgroundColor3"] = Color3.fromRGB(200, 157, 0);
+G2L["5d"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 255);
 G2L["5d"]["TextSize"] = 21;
 G2L["5d"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 G2L["5d"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
@@ -683,7 +683,7 @@ G2L["5f"] = Instance.new("LocalScript", G2L["5d"]);
 
 -- StarterGui.SylonX.MainUI.Tabs.Scripts.FatesEsp
 G2L["60"] = Instance.new("TextButton", G2L["56"]);
-G2L["60"]["BackgroundColor3"] = Color3.fromRGB(200, 157, 0);
+G2L["60"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 255);
 G2L["60"]["TextSize"] = 21;
 G2L["60"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 G2L["60"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
@@ -708,7 +708,7 @@ G2L["63"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 G2L["63"]["TextSize"] = 22;
 G2L["63"]["TextColor3"] = Color3.fromRGB(239, 239, 239);
 G2L["63"]["Size"] = UDim2.new(0, 152, 0, 37);
-G2L["63"]["Text"] = [[Built-In-Scripts]];
+G2L["63"]["Text"] = [[Quick-Scripts]];
 G2L["63"]["Name"] = [[name]];
 G2L["63"]["BackgroundTransparency"] = 1;
 G2L["63"]["Position"] = UDim2.new(0.03617112338542938, 0, 0, 0);
