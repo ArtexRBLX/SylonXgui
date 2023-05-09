@@ -18,7 +18,7 @@ G2L["1"]["ZIndexBehavior"] = Enum.ZIndexBehavior.Sibling;
 -- StarterGui.SylonX.MainUI
 G2L["2"] = Instance.new("Frame", G2L["1"]);
 G2L["2"]["Active"] = true;
-G2L["2"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 255);
+G2L["2"]["BackgroundColor3"] = Color3.fromRGB(255, 36, 0);
 G2L["2"]["Size"] = UDim2.new(0, 641, 0, 282);
 G2L["2"]["Position"] = UDim2.new(0.11153730750083923, 0, 0.21357615292072296, 0);
 G2L["2"]["Name"] = [[MainUI]];
@@ -203,7 +203,7 @@ G2L["1e"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 G2L["1e"]["TextSize"] = 22;
 G2L["1e"]["TextColor3"] = Color3.fromRGB(239, 239, 239);
 G2L["1e"]["Size"] = UDim2.new(0, 146, 0, 37);
-G2L["1e"]["Text"] = [[Welcome, User]];
+G2L["1e"]["Text"] = [[Welcome, User!]];
 G2L["1e"]["Name"] = [[name]];
 G2L["1e"]["BackgroundTransparency"] = 1;
 G2L["1e"]["Position"] = UDim2.new(0.014728687703609467, 0, 0.02857142873108387, 0);
@@ -288,7 +288,7 @@ G2L["28"]["BackgroundColor3"] = Color3.fromRGB(255, 255, 255);
 G2L["28"]["TextXAlignment"] = Enum.TextXAlignment.Left;
 G2L["28"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 G2L["28"]["TextSize"] = 22;
-G2L["28"]["TextColor3"] = Color3.fromRGB(239, 239, 239);
+G2L["28"]["TextColor3"] = Color3.fromRGB(255, 0, 0);
 G2L["28"]["Size"] = UDim2.new(0, 61, 0, 37);
 G2L["28"]["Text"] = [[SploitWare]];
 G2L["28"]["Name"] = [[name]];
@@ -560,7 +560,7 @@ G2L["4c"]["Name"] = [[TextFixer]];
 
 -- StarterGui.SylonX.MainUI.Tabs.Executor.Execute
 G2L["4d"] = Instance.new("TextButton", G2L["2c"]);
-G2L["4d"]["BackgroundColor3"] = Color3.fromRGB(200, 157, 0);
+G2L["4d"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 255);
 G2L["4d"]["TextSize"] = 26;
 G2L["4d"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 G2L["4d"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
@@ -579,7 +579,7 @@ G2L["4f"] = Instance.new("LocalScript", G2L["4d"]);
 
 -- StarterGui.SylonX.MainUI.Tabs.Executor.Clear
 G2L["50"] = Instance.new("TextButton", G2L["2c"]);
-G2L["50"]["BackgroundColor3"] = Color3.fromRGB(200, 157, 0);
+G2L["50"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 255);
 G2L["50"]["TextSize"] = 26;
 G2L["50"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 G2L["50"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
@@ -598,7 +598,7 @@ G2L["52"] = Instance.new("LocalScript", G2L["50"]);
 
 -- StarterGui.SylonX.MainUI.Tabs.Executor.Save
 G2L["53"] = Instance.new("TextButton", G2L["2c"]);
-G2L["53"]["BackgroundColor3"] = Color3.fromRGB(200, 157, 0);
+G2L["53"]["BackgroundColor3"] = Color3.fromRGB(0, 0, 255);
 G2L["53"]["TextSize"] = 26;
 G2L["53"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]], Enum.FontWeight.Bold, Enum.FontStyle.Normal);
 G2L["53"]["TextColor3"] = Color3.fromRGB(255, 255, 255);
@@ -775,8 +775,8 @@ G2L["6a"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 G2L["6a"]["TextSize"] = 22;
 G2L["6a"]["TextColor3"] = Color3.fromRGB(239, 239, 239);
 G2L["6a"]["Size"] = UDim2.new(0, 152, 0, 37);
-G2L["6a"]["Text"] = [[HeadAdmin/Friend:]];
-G2L["6a"]["Name"] = [[HeadAdmin/Friend]];
+G2L["6a"]["Text"] = [[Dev/CoOwner:]];
+G2L["6a"]["Name"] = [[Dev/CoOwner]];
 G2L["6a"]["BackgroundTransparency"] = 1;
 G2L["6a"]["Position"] = UDim2.new(0.03617112338542938, 0, 0.26938775181770325, 0);
 
@@ -788,7 +788,7 @@ G2L["6b"]["FontFace"] = Font.new([[rbxasset://fonts/families/SourceSansPro.json]
 G2L["6b"]["TextSize"] = 18;
 G2L["6b"]["TextColor3"] = Color3.fromRGB(239, 239, 239);
 G2L["6b"]["Size"] = UDim2.new(0, 152, 0, 21);
-G2L["6b"]["Text"] = [[MasterCat#7568]];
+G2L["6b"]["Text"] = [[Øneplayer#7568]];
 G2L["6b"]["Name"] = [[UIName]];
 G2L["6b"]["BackgroundTransparency"] = 1;
 G2L["6b"]["Position"] = UDim2.new(0.03617112338542938, 0, 0.3877550959587097, 0);
